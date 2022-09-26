@@ -1,4 +1,4 @@
-# deep-learning-challenge
+# funding-success-predictor-ML
 Eddy' folder for Deep Learning Homework
 ## Overview
 A non-profit, Alphabet Soup, wants to create an algorithm to predict whether or not applicants for funding will be successful based on metadata for each organization. To help them, we will utilize machine learning, specifically neural networks with multiple hidden layers. The data is provided to us in `charity_data.csv` which contains over 34,000 applicants that have recieved funding in the past. Our goal is to build a model with over 75% prediction accuracy.
